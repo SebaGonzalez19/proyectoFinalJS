@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+.card {
+  width: 500px;
+  border: 3px solid black;
+  border-radius: 3%;
+  display: inline-block;
+  width: 30%;
+  text-align: left;
+  margin: 10px;
+  background-color: black;
+}
+
+.card img {
+  border-top-left-radius: 3%;
+  border-top-right-radius: 3%;
+  border-bottom-left-radius: 2%;
+  border-bottom-right-radius: 2%;
+  object-fit: cover;
+  width: 100%;
+  height: 300px;
+}
+
+.card p {
+  text-align: center;
+  padding: 5px;
+  color: white;
+}

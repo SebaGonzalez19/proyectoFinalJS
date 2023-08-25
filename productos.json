@@ -1,0 +1,86 @@
+[
+  {
+    "marca": "nike",
+    "modelos": [
+      {
+        "modelo": "Air Max 1",
+        "precio": 85000,
+        "imagen": "assets/air-max-1.webp"
+      },
+      {
+        "modelo": "Air Force 1",
+        "precio": 75000,
+        "imagen": "assets/air-force-1.webp"
+      },
+      {
+        "modelo": "Air Max 90",
+        "precio": 90000,
+        "imagen": "assets/air-max-90.jpg"
+      },
+      {
+        "modelo": "Air Max 95",
+        "precio": 95000,
+        "imagen": "assets/air-max-95.jpg"
+      },
+      {
+        "modelo": "Air Max 97",
+        "precio": 80000,
+        "imagen": "assets/air-max-97.jpg"
+      },
+      {
+        "modelo": "Air Jordan 1",
+        "precio": 95000,
+        "imagen": "assets/air-jordan-1.webp"
+      },
+      {
+        "modelo": "React Presto",
+        "precio": 70000,
+        "imagen": "assets/react-presto.jpeg"
+      },
+      { "modelo": "Free RN", "precio": 60000, "imagen": "assets/free-rn.jpg" }
+    ]
+  },
+  {
+    "marca": "adidas",
+    "modelos": [
+      {
+        "modelo": "Superstar",
+        "precio": 70000,
+        "imagen": "assets/superstar.jpg"
+      },
+      {
+        "modelo": "Stan Smith",
+        "precio": 65000,
+        "imagen": "assets/stan-smith.jpg"
+      },
+      { "modelo": "Ultraboost", "precio": 90000, "imagen": "assets/ultra.jpg" },
+      { "modelo": "NMD R1", "precio": 85000, "imagen": "assets/nmd-r1.jpg" },
+      {
+        "modelo": "Yeezy Boost 350",
+        "precio": 100000,
+        "imagen": "assets/yeezy-350.jpg"
+      },
+      { "modelo": "Gazelle", "precio": 60000, "imagen": "assets/gazelle.jpg" },
+      {
+        "modelo": "Pharrell Williams Human",
+        "precio": 80000,
+        "imagen": "assets/williams.jpg"
+      }
+    ]
+  },
+  {
+    "marca": "puma",
+    "modelos": [
+      { "modelo": "Suede", "precio": 55000, "imagen": "assets/suede.jpg" },
+      { "modelo": "Cali", "precio": 60000, "imagen": "assets/cali.jpg" },
+      { "modelo": "RS-X", "precio": 75000, "imagen": "assets/rsx.jpg" },
+      { "modelo": "RS-Fast", "precio": 65000, "imagen": "assets/rsfast.jpg" },
+      { "modelo": "King", "precio": 50000, "imagen": "assets/king.jpg" },
+      {
+        "modelo": "Ralph Sampson",
+        "precio": 70000,
+        "imagen": "assets/ralph.jpg"
+      }
+    ]
+  }
+]
